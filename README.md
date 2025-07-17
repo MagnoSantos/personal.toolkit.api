@@ -1,5 +1,6 @@
 # personal.toolkit.api
-Clean Architecture
+## Clean Architecture
+
 The Personal Toolkit API is a modular and extensible RESTful API designed to support a variety of everyday utilities and productivity tools in one centralized service. Whether you're automating small personal tasks, managing data, or integrating helper functions across multiple projects, this API provides a flexible foundation to build upon.
 
 ✨ Features
